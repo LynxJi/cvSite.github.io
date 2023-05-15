@@ -127,3 +127,24 @@ list-style: none;
     text-decoration: none;
     font-size: 18px;
 }
+.download{
+    display: flex;
+    position: relative;
+    /* background-color: #0c7373; */
+    justify-content: end;
+    margin-top: 30px;
+}
+
+.download a{
+    color: #0c7373;
+    text-decoration: none;
+    font-size: 18px;
+}
+h2#download{
+    margin-top: 20px;
+}
+.site{
+    color: #0c7373;
+    text-decoration: none;
+    font-size: 18px;
+}
